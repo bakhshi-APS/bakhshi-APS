@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**bakhshi-APS/bakhshi-APS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+val me = developer {
+    about {
+        name = "Niamatullah Bakhshi"
+        company = "Da Afghanistan Bank"
+        directorate = "Afghanistan Payments System"
+        role = "Integrations Manager | FinTech developer"
+    }
+    tech("Kotlin", "Java", "Spring", "TypeScript", "Angular")
+    links {
+        linkedin = "https://www.linkedin.com/in/niamatullah-bakhshi-423b92157/"
+        blog = "https://blog_is_yet_to_come.af"
+    }
+}
+```
+:hearts: :flag_af: :hearts:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
