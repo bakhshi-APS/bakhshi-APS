@@ -7,6 +7,7 @@ val me = developer {
         company = "Da Afghanistan Bank"
         directorate = "Afghanistan Payments System"
         role = "Integrations Manager | FinTech developer"
+        message_to_you = "Genius is 1% talent and 99% percent hard work"
     }
     tech("Kotlin", "Java", "Spring", "TypeScript", "Angular")
     links {
@@ -15,5 +16,5 @@ val me = developer {
     }
 }
 ```
-:hearts: :flag_af: :hearts:
+Thank you for passing by. 🙏 
 
